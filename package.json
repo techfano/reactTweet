@@ -1,0 +1,14 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/techfano/reactTweet.git",
+  "author": "Estefano Castañeda <mixc21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.3.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
